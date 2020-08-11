@@ -1,3 +1,13 @@
-# net.playhi.dde-file-manager-menu-open-as-administrator
+# net.playhi.fast-screen-off
 
-Add an item to open current dir in the dde-file-manager with sudo in the dde-file-manager right-click menu.
+Click to fast turn off the screen.
+
+
+![Cover](https://github.com/Playhi/fast-screen-off/raw/master/Cover/net.playhi.fast-screen-off_cover.png)
+
+![Screenshot](https://github.com/Playhi/fast-screen-off/raw/master/Screenshots/1.png)
+
+![Screenshot](https://github.com/Playhi/fast-screen-off/raw/master/Screenshots/2.png)
+
+![Screenshot](https://github.com/Playhi/fast-screen-off/raw/master/Screenshots/3.png)
+
