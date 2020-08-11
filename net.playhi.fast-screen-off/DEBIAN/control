@@ -1,0 +1,10 @@
+Package: net.playhi.fast-screen-off
+Version: 1.0.0.1
+Section: utils
+Priority: extra
+Architecture: all
+Depends: coreutils, x11-xserver-utils
+Installed-Size: 135
+Homepage: https://github.com/Playhi/dde-dock-plugin-fast_screen_off
+Maintainer: Playhi <hiplayhi@playhi.net>
+Description: Click to fast turn off the screen.
