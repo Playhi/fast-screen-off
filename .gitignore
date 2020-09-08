@@ -1,2 +1,7 @@
 *.deb
 *.idea/
+*.buildinfo
+*.changes
+*.dsc
+*.tar.gz
+*.tar.xz

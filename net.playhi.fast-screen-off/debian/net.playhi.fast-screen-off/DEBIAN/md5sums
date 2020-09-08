@@ -1,0 +1,11 @@
+1ebbd3e34237af26da5dc08a4e440464  opt/apps/net.playhi.fast-screen-off/LICENSE
+00f92ab13ab645c8a51a772629c224b9  opt/apps/net.playhi.fast-screen-off/README.md
+f881e1a5529434da12afa6cff843b02d  opt/apps/net.playhi.fast-screen-off/entries/applications/net.playhi.fast-screen-off.desktop
+507cc63341ef9b494f7eaea60d2a9c58  opt/apps/net.playhi.fast-screen-off/entries/icons/hicolor/scalable/apps/net.playhi.fast-screen-off.svg
+02a9f0dbce505ae67db361bca4a584df  opt/apps/net.playhi.fast-screen-off/files/bin/net.playhi.fast-screen-off.sh
+5ed911ae576735de3ab8c36c13dcee7f  opt/apps/net.playhi.fast-screen-off/files/changelog
+11a0b0fb4e9b7d93f5d538377ef1674d  opt/apps/net.playhi.fast-screen-off/files/copyright
+e0f371bdf9727f3f21aea80b1327297b  opt/apps/net.playhi.fast-screen-off/files/src/net.playhi.dde-file-manager-menu-quick-hash-plugin-gtkhash.desktop
+b3424253616c910163da4524640938c2  opt/apps/net.playhi.fast-screen-off/info
+f881e1a5529434da12afa6cff843b02d  usr/share/applications/net.playhi.fast-screen-off.desktop
+507cc63341ef9b494f7eaea60d2a9c58  usr/share/icons/hicolor/scalable/apps/net.playhi.fast-screen-off.svg

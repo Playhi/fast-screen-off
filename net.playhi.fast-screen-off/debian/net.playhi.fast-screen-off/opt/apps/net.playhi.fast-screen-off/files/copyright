@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fast-screen-off
+Upstream-Contact: Playhi <hiplayhi@playhi.net>
+Upstream-Source: https://github.com/Playhi/fast-screen-off.git
+
+Files: *
+Copyright: 2019-2020 Playhi <hiplayhi@playhi.net>
+License: GPL-3.0

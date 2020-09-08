@@ -1,0 +1,12 @@
+net.playhi.fast-screen-off (1.0.1.2) stable; urgency=low
+
+  * Change the way of build package
+
+ -- Playhi <hiplayhi@playhi.net>  Tue, 08 Sep 2020 18:30:00 +0800
+
+
+net.playhi.fast-screen-off (1.0.0.1) stable; urgency=low
+
+  * Initial release
+
+ -- Playhi <hiplayhi@playhi.net>  Fri, 14 Aug 2020 18:30:00 +0800

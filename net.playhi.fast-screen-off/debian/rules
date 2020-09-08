@@ -1,0 +1,32 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+export DH_VERBOSE=1
+
+%:
+	dh "$@"
+
+override_dh_installdocs:
+	mkdir -p debian/net.playhi.fast-screen-off/opt/apps/net.playhi.fast-screen-off/
+	cp -r deepin/* debian/net.playhi.fast-screen-off/opt/apps/net.playhi.fast-screen-off/
+	mkdir -p debian/net.playhi.fast-screen-off/usr/
+	cp -r usr/* debian/net.playhi.fast-screen-off/usr/
+	mkdir -p debian/net.playhi.fast-screen-off/opt/apps/net.playhi.fast-screen-off/files/
+	cp debian/copyright debian/net.playhi.fast-screen-off/opt/apps/net.playhi.fast-screen-off/files/
+
+override_dh_installchangelogs:
+	cp debian/changelog debian/net.playhi.fast-screen-off/opt/apps/net.playhi.fast-screen-off/files/
+	# ./build.sh
+
+override_dh_strip_nondeterminism:
+	# skip
+
+override_dh_dwz:
+	# skip
+
+override_dh_shlibdeps:
+	# skip
+
+override_dh_strip:
+	# skip

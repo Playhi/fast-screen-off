@@ -1,0 +1,16 @@
+Source: net.playhi.fast-screen-off
+Section: utils
+Priority: optional
+Maintainer: Playhi <hiplayhi@playhi.net>
+Build-Depends: debhelper-compat (= 12), bash,
+Rules-Requires-Root: no
+Standards-Version: 4.5.0
+Homepage: https://github.com/Playhi/fast-screen-off/
+Vcs-Browser: https://github.com/Playhi/fast-screen-off/
+Vcs-Git: https://github.com/Playhi/fast-screen-off.git
+
+Package: net.playhi.fast-screen-off
+Architecture: all
+Depends: coreutils, x11-xserver-utils
+Description: fast-screen-off
+ Click to fast turn off the screen.

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Icon=net.playhi.fast-screen-off
+Type=Application
+Categories=Utility;
+Name=快速熄屏
+Name[zh_CN]=快速熄屏
+Exec="/opt/apps/net.playhi.fast-screen-off/files/bin/net.playhi.fast-screen-off.sh"
+Terminal=false

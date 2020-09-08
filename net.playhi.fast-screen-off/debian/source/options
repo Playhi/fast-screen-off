@@ -1,0 +1,6 @@
+# 打包源代码时忽略的文件或文件夹
+
+# 版本控制或IDE文件夹
+tar-ignore = ".git"
+tar-ignore = ".vscode"
+

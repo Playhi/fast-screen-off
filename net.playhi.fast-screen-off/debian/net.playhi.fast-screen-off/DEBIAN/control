@@ -1,0 +1,11 @@
+Package: net.playhi.fast-screen-off
+Version: 1.0.1.2
+Architecture: all
+Maintainer: Playhi <hiplayhi@playhi.net>
+Installed-Size: 162
+Depends: coreutils, x11-xserver-utils
+Section: utils
+Priority: optional
+Homepage: https://github.com/Playhi/fast-screen-off/
+Description: fast-screen-off
+ Click to fast turn off the screen.
